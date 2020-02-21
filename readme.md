@@ -6,9 +6,13 @@
 ```
 
 ### Install package
-`$ go get -u google.golang.org/api/sheets/v4`
-`$ go get -u golang.org/x/oauth2/google`
+```
+$ go get -u google.golang.org/api/sheets/v4
+$ go get -u golang.org/x/oauth2/google
+```
 
 ### Clone Project
-``
+```
+$ git clone https://github.com/sutin1234/go-spreadsheet-api.git
+```
 
